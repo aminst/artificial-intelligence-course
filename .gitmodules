@@ -1,0 +1,12 @@
+[submodule "covid-classifier"]
+	path = covid-classifier
+	url = https://github.com/aminst/covid-classifier
+[submodule "neural-net-from-scratch"]
+	path = neural-net-from-scratch
+	url = https://github.com/aminst/neural-net-from-scratch
+[submodule "house-price-prediction"]
+	path = house-price-prediction
+	url = https://github.com/aminst/house-price-prediction
+[submodule "naive-bayes-comment-classifier"]
+	path = naive-bayes-comment-classifier
+	url = https://github.com/aminst/naive-bayes-comment-classifier
